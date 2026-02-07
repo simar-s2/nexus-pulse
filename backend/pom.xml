@@ -41,6 +41,7 @@
             <version>${aws.sdk.version}</version>
         </dependency>
         
+		
         <!-- AWS SDK v2 - SQS -->
         <dependency>
             <groupId>software.amazon.awssdk</groupId>
